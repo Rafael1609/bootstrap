@@ -1,0 +1,49 @@
+body {
+  font-family: "Roboto", sans-serif;
+}
+
+.bg-green {
+  background-color: #28a745;
+}
+.navbar-brand img {
+  height: 25px;
+  width: 86px;
+}
+.card-text {
+  font-size: 20px;
+}
+.name {
+  font-size: 16px;
+}
+.direction {
+  font-size: 13px;
+}
+.price {
+  font-size: 16px;
+}
+.colorprice {
+  font-size: 24px;
+  font-weight: bold;
+}
+.form {
+  background-color: #28a745;
+}
+
+legend {
+  color: white;
+  font-size: 24px;
+}
+
+footer img {
+  height: 24px;
+  width: 82px;
+}
+.cupponboton {
+  text-align: center;
+  margin-top: 24px;
+}
+.derechos {
+  text-align: center;
+  font-size: 16px;
+  color: #707070;
+}
